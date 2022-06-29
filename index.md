@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://www.linkedin.com/in/deepesh-rawat-5091ba162/).
 
 There should be whitespace between paragraphs.
 
@@ -16,7 +16,10 @@ Fraud Detection
 
 ## Project 2
 
-Voioce Biometric
+Real Time Authentication using NICE Voice Biometrics
+
+Backend Entities : NICE ENGAGE, AVAYA, CISCO
+Front End: NICE Real TIme DEsigner v6.4
 
 ### Header 3
 
